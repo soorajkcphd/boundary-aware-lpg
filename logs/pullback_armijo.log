@@ -1,0 +1,28 @@
+seed=20260728
+normal_seed=20260729
+K=4
+weights=[0.5, 0.5, 0.5, 0.5]
+radius=4.0
+trial_step=16.0
+armijo_c=0.2
+backtrack=0.5
+iterations=8
+initial_objective=2.998346644558
+final_objective=6.000000000000
+initial_mapping_norm=1.265693299608e+00
+final_mapping_norm=1.759022167545e-07
+radius_projection_active_count=1
+backtracking_reductions=[0, 3, 3, 3, 3, 3, 3, 3]
+normal_component_norm_min=5.714947653607
+normal_component_norm_max=6.215264155021
+first_trial_ordered_norm=4.000000000000
+first_trial_reverse_norm=0.849451029777
+first_trial_composition_difference=3.150548970223
+single_block_certified_L=1.500000000000
+single_block_numerical_Hessian_sup_estimate=0.660245094902
+certificate_to_estimate_ratio=2.271883595323
+numerical_maximizer=[4.228268132123606e-05, -4.2737279591648107e-05, 0.7499999975904665]
+
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/results/pullback_armijo.csv
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/figures/pullback_armijo.png
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/results/pullback_armijo_summary.txt

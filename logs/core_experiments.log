@@ -1,0 +1,17 @@
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/figures/theory_aligned_diagnostics.png
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/tables/theory_aligned_rate.csv
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/figures/fisher_alignment_histogram.png
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/figures/fisher_isotropy_tracking.png
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/tables/fisher_alignment.csv
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/figures/controlled_anisotropy.png
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/tables/controlled_anisotropy.csv
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/figures/se3_radius_control.png
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/tables/se3_fisher.csv
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/tables/se3_radius_control.csv
+K=5: direct AUC=-74410.118, redundant AUC=-131208.443, ratio=0.567
+K=10: direct AUC=-155837.340, redundant AUC=-263274.376, ratio=0.592
+K=15: direct AUC=-238176.638, redundant AUC=-394658.532, ratio=0.604
+K=20: direct AUC=-321006.209, redundant AUC=-526482.941, ratio=0.610
+K=30: direct AUC=-490574.539, redundant AUC=-790269.173, ratio=0.621
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/tables/scalability.csv
+wrote /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/results/core_experiments.json

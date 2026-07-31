@@ -1,0 +1,2 @@
+final_parameter_norm_no_projection,final_parameter_norm_projection,final_gradient_norm_no_projection,final_gradient_norm_projection,seeds,iterations,learning_rate,radius
+13.601922916620518,1.906284835919641,0.33968181647898577,0.22751365556486441,5,150,3.0,2.0

@@ -1,0 +1,96 @@
+
+## direct
+lr=0.015625 final=-695.043+/-16.393 auc=-69363.033+/-692.580
+lr=0.03125 final=-697.346+/-16.924 auc=-69515.939+/-691.120
+lr=0.0625 final=-705.607+/-17.932 auc=-70088.277+/-677.500
+lr=0.125 final=-734.104+/-20.856 auc=-72161.110+/-711.710
+lr=0.25 final=-832.767+/-43.375 auc=-79457.759+/-1925.712
+lr=0.5 final=-1085.061+/-105.750 auc=-99462.301+/-5698.913
+selected 0.015625
+held final=-690.742+/-8.757 auc=-276327.443+/-933.973
+
+## redundant
+lr=0.015625 final=-1283.549+/-26.632 auc=-125388.117+/-2346.533
+lr=0.03125 final=-1295.490+/-13.367 auc=-128435.194+/-629.939
+lr=0.0625 final=-1305.793+/-8.949 auc=-129641.891+/-388.459
+lr=0.125 final=-1317.794+/-3.928 auc=-130772.984+/-251.558
+lr=0.25 final=-1325.711+/-6.604 auc=-131634.209+/-312.230
+lr=0.5 final=-1329.807+/-5.517 auc=-132180.830+/-431.420
+selected 0.015625
+held final=-1290.947+/-25.657 auc=-505175.941+/-7994.696
+
+## redundant_ng
+lr=0.015625 final=-695.043+/-16.393 auc=-69363.030+/-692.579
+lr=0.03125 final=-697.346+/-16.924 auc=-69515.928+/-691.118
+lr=0.0625 final=-705.606+/-17.932 auc=-70088.237+/-677.492
+lr=0.125 final=-734.102+/-20.856 auc=-72160.965+/-711.666
+lr=0.25 final=-832.759+/-43.370 auc=-79457.178+/-1925.345
+lr=0.5 final=-1085.051+/-105.752 auc=-99461.447+/-5699.001
+selected 0.015625
+held final=-690.742+/-8.757 auc=-276327.416+/-933.974
+WROTE /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/results/learning_rate_ablation.json
+
+ {
+  "direct_minus_redundant_final": {
+    "mean": 600.2056984651588,
+    "sd": 22.364376150665368,
+    "ci95": [
+      572.4366577565906,
+      627.9747391737269
+    ]
+  },
+  "direct_minus_ng_final": {
+    "mean": -0.00014140436801426403,
+    "sd": 3.859638454593182e-05,
+    "ci95": [
+      -0.0001893281091657758,
+      -9.348062686275226e-05
+    ]
+  },
+  "ng_minus_redundant_final": {
+    "mean": 600.2058398695269,
+    "sd": 22.36436673735633,
+    "ci95": [
+      572.4368108491258,
+      627.9748688899281
+    ]
+  },
+  "auc_ratio_direct_over_redundant": 0.5469924835198784,
+  "auc_ratio_ng_over_redundant": 0.5469924311638587,
+  "auc_ratio_direct_over_ng": 1.0000000957161685
+}
+direct {'final_by_seed': [-847.4378801403693, -900.1230708338775, -923.1777202041012, -943.6261783969248, -871.3765420128366], 'auc_by_seed': [-330356.83976535336, -330183.51249605225, -341851.09546549595, -338992.36900509713, -321549.7615414077], 'final_mean': -897.1482783176219, 'final_sd': 38.671315307093025, 'auc_mean': -332586.71565468126, 'auc_sd': 8053.310128864436}
+redundant {'final_by_seed': [-1323.4131586134376, -1325.7918570333122, -1332.1854871438345, -1321.6484502556589, -1327.2692366921674], 'auc_by_seed': [-527465.3265611777, -526917.7190475105, -528898.5209728457, -528126.4739636272, -530068.8365352645], 'final_mean': -1326.0616379476821, 'final_sd': 4.047322381390024, 'auc_mean': -528295.3754160851, 'auc_sd': 1237.3757287027486}
+redundant_ng {'final_by_seed': [-847.4306508478043, -900.1176254761151, -923.165903868322, -943.6182363041022, -871.3633094298687], 'auc_by_seed': [-330353.9149959597, -330181.3525003669, -341848.6404417277, -338990.26740346686, -321547.0718742761], 'final_mean': -897.1391451852423, 'final_sd': 38.671363894388215, 'auc_mean': -332584.2494431595, 'auc_sd': 8053.471314179416}
+WROTE /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/results/conditioning_stress_test.json
+WROTE /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/results/conditioning_stress_test.npz
+WROTE /home/soorajcnvd/Documents/4ph/000_PAP_JOUR/000_JOURNAL/02_2A_SIMODS_infGeAND_simods->CAM/200_SIMODSfromsimods_B/600_Paper1-2_Mathves_AMAI/02_PapB_AMAI/39/boundary-aware-lpg-audited-v1.0.1/boundary-aware-lpg/figures/conditioning_stress_test.png
+{
+  "direct_minus_redundant_final": {
+    "mean": 428.9133596300602,
+    "sd": 38.53365871720276,
+    "ci95": [
+      381.0675028818388,
+      476.7592163782816
+    ]
+  },
+  "direct_minus_ng_final": {
+    "mean": -0.009133132379452036,
+    "sd": 0.003265269456846596,
+    "ci95": [
+      -0.013187499908452822,
+      -0.005078764850451251
+    ]
+  },
+  "ng_minus_redundant_final": {
+    "mean": 428.9224927624397,
+    "sd": 38.53391947030548,
+    "ci95": [
+      381.0763122464782,
+      476.76867327840114
+    ]
+  },
+  "auc_ratio_direct_over_redundant": 0.629546899578169,
+  "auc_ratio_ng_over_redundant": 0.6295422313345377,
+  "auc_ratio_direct_over_ng": 1.0000074152986074
+}

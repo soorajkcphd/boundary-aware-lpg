@@ -1,0 +1,4 @@
+max Dexp convention error = 1.431e-15
+max pullback-gradient error = 6.019e-16
+max sampled gradient-Lipschitz ratio = 0.852510
+analytical compact certificate = 1.500000

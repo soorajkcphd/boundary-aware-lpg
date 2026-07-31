@@ -1,0 +1,6 @@
+# Existing compatible installations satisfy these ranges; pip will not replace
+# an already-installed CUDA-enabled PyTorch build such as torch 2.11.0+cu130.
+numpy>=1.24,<3
+scipy>=1.10,<2
+matplotlib>=3.7,<4
+torch>=2.1,<3

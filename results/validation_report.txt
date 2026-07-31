@@ -1,0 +1,55 @@
+PASS figure state_dependent_policy.png: 523014 bytes
+PASS figure theory_aligned_diagnostics.png: 209221 bytes
+PASS figure pullback_armijo.png: 377073 bytes
+PASS figure se3_radius_control.png: 310151 bytes
+PASS figure fisher_alignment_histogram.png: 68637 bytes
+PASS figure fisher_isotropy_tracking.png: 304703 bytes
+PASS figure controlled_anisotropy.png: 180590 bytes
+PASS figure conditioning_stress_test.png: 855202 bytes
+PASS table theory_aligned_rate.csv: 300 bytes
+PASS table state_dependent_policy.csv: 323 bytes
+PASS table state_dependent_paired_difference.csv: 106 bytes
+PASS table pullback_armijo_selected_iterations.csv: 862 bytes
+PASS table pullback_armijo_all_iterations.csv: 1212 bytes
+PASS table se3_fisher.csv: 300 bytes
+PASS table se3_radius_control.csv: 263 bytes
+PASS table scalability.csv: 473 bytes
+PASS table fisher_alignment.csv: 444 bytes
+PASS table controlled_anisotropy.csv: 771 bytes
+PASS table fixed_ratio_fisher.csv: 875 bytes
+PASS table conditioning_stress_test.csv: 410 bytes
+PASS table conditioning_comparisons.csv: 503 bytes
+PASS table learning_rate_study.csv: 1861 bytes
+PASS table learning_rate_selected.csv: 414 bytes
+PASS table manuscript_table_rows.tex: 569 bytes
+PASS JSON core_experiments.json
+PASS JSON state_dependent_policy.json
+PASS JSON learning_rate_ablation.json
+PASS JSON conditioning_stress_test.json
+PASS result state_dependent_policy.npz: 25646 bytes
+PASS result conditioning_stress_test.npz: 48772 bytes
+PASS result pullback_armijo.csv: 1212 bytes
+PASS result pullback_armijo_summary.txt: 804 bytes
+PASS result fixed_ratio_fisher.csv: 875 bytes
+PASS boundary raw gradient: 1.0712315
+PASS boundary mapping: 0
+PASS stochastic mapping slope: -0.51938332
+PASS Fisher alignment mean: 0.97032132
+PASS Fisher condition mean: 2.5313942
+PASS high-anisotropy alignment: 0.8189891
+PASS high-anisotropy return degradation: 15.231503
+PASS selected state-dependent step: 0.0025
+PASS selected state-dependent radius: 2
+PASS active projection fraction: 0.67
+PASS constrained final norm: 2
+PASS unconstrained final norm: 3.3389932
+PASS constrained return: -29.221861
+PASS unconstrained return: -18.835071
+PASS direct selected rate: 0.015625
+PASS redundant selected rate: 0.015625
+PASS redundant_ng selected rate: 0.015625
+PASS direct stress-test return: -897.14828
+PASS redundant stress-test return: -1326.0616
+PASS metric-corrected return: -897.13915
+PASS fixed-ratio d=15 condition: 2.2418615
+PASS Armijo terminal mapping: 1.7590222e-07
