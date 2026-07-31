@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "Boundary-Aware Lie-Projected Policy Optimization: Reproducibility Code"
+type: software
+authors:
+  - family-names: "K.C"
+    given-names: "Sooraj"
+repository-code: "https://github.com/soorajkcphd/boundary-aware-lpg"
+license: MIT
+version: 1.0.1
+date-released: 2026-07-31
